@@ -1,2 +1,2 @@
-# exercism_javascript
-My excercices with javascript
+# Exercism JavaScript
+My excercices with JavaScript in https://exercism.io/profiles/denis2710
