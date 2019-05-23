@@ -1,12 +1,2 @@
-# hello-world
-hello-world/node_modules
-hello-world/package-lock.json
-
-# leap
-leap/node_modules
-leap/package-lock.json
-leap/.vscode
-
-# gigasecond
-gigasecond/node_modules
-gigasecond/package-lock.json
+*/node_modules
+*/package-lock.json
